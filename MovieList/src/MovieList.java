@@ -9,6 +9,7 @@ public class MovieList
 
 	public static void main(String[] args)
 	{
+		// Test comment for GIT
 		ArrayList<Movie> relevantMovies = new ArrayList<Movie>();
 		TreeMap<Integer, String> numberedCategories;
 		String goAgain = "y";
